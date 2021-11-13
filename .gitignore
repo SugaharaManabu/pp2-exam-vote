@@ -1,0 +1,10 @@
+*.class
+.DS_Store
+venv/
+target/
+__pycache__/
+JavaDoc/
+Maven__*
+.settings/
+.project
+*.lnk
