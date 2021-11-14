@@ -8,3 +8,4 @@ Maven__*
 .settings/
 .project
 *.lnk
+.idea/
