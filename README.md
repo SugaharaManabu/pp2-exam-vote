@@ -42,6 +42,6 @@
 
 ## 使い方
 
-* `http://localhost:8080/counter/vote`を開いて、暑い、または寒いの画像をクリックします
+* [http://localhost:8080/counter/vote](http://localhost:8080/counter/vote) を開いて、暑い、または寒いの画像をクリックします
 * 押したボタンによって「寒い　に投票ありがとうございました」「暑い　に投票ありがとうございました」と表示されます。
-* ボタンを押した数は`http://localhost:8080/counter/show`を開くと表示されます
+* ボタンを押した数は [http://localhost:8080/counter/show](http://localhost:8080/counter/show) を開くと表示されます
